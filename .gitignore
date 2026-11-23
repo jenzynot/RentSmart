@@ -1,0 +1,8 @@
+# Arquivo gerado pelo programa
+orcamento_12_meses.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
